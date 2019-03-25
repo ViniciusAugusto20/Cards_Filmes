@@ -14,7 +14,7 @@
                 </div>
                 <div class="movie-list">
                     <div class="movie">
-                        <figure class="movie-poster"><a href=seven><img src= "images/img46.jpg"></figure>
+                        <figure class="movie-poster"><a href=seven.php><img src= "images/img46.jpg"></figure>
                         <div class="card border-warning mb-3" style="max-width: 18rem;">
                             <div align="center" class="card-body text-warning">
                                 <h3 class= "card-title">Seven: Os Sete Crimes Capitais</h3>
@@ -22,7 +22,7 @@
                         </div>
                     </div>
                     <div class="movie">
-                        <figure class="movie-poster"><a href=mentes><img src= "images/img30.jpg"></figure>
+                        <figure class="movie-poster"><a href=mentes.php><img src= "images/img30.jpg"></figure>
                         <div class="card border-warning mb-3" style="max-width: 18rem;">
                             <div align="center" class="card-body text-warning">
                                 <h3 class="card-title">Mentes Perigosas</h3>
